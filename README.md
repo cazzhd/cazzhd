@@ -24,8 +24,8 @@ I'm a computer engineering student in the [University of Granada](https://www.ug
 
 ---
 
-<div style="text-align:center; width:100%">
-  <a href="https://github.com/cazzhd">
-    <img align="center" alt="cazzhd's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=cazzhd"/>
-  </a>
+<p align="center">
+  <img alt="cazzhd's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=cazzhd"/>
 </div>
+
+---
