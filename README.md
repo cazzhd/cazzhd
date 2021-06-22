@@ -26,8 +26,7 @@ I'm a computer engineering student in the [University of Granada](https://www.ug
 
 <p align="center">
   <img alt="cazzhd's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=cazzhd&show_icons=true&theme=gruvbox"/>
-  <br>
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+  <!-- <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/> -->
 </p>
 
 ---
