@@ -26,6 +26,6 @@ I'm a computer engineering student in the [University of Granada](https://www.ug
 
 <p align="center">
   <img alt="cazzhd's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=cazzhd"/>
-</div>
+</p>
 
 ---
