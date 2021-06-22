@@ -19,6 +19,7 @@ I'm a computer engineering student in the [University of Granada](https://www.ug
 [<img align="left" alt="OpenMP" height="30px" src="https://www.openmp.org/wp-content/uploads/openmp-enabling-hpc-since-1997.png"/>](https://www.openmp.org/) 
 
 <br>
+<br>
 
 ![](https://komarev.com/ghpvc/?username=cazzhd)
 
