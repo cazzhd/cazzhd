@@ -1,4 +1,5 @@
 ### Hi there! I'm cazzhd 👋 
+![](https://komarev.com/ghpvc/?username=cazzhd)
 
 <!--
 **cazzhd/cazzhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,13 +18,3 @@ I'm a computer engineering student in the [University of Granada](https://www.ug
 [<img align="left" alt="OpenMPI" height="30px" src="https://www.open-mpi.org/images/open-mpi-logo.png"/>](https://www.open-mpi.org/) 
 
 [<img align="left" alt="OpenMP" height="30px" src="https://www.openmp.org/wp-content/uploads/openmp-enabling-hpc-since-1997.png"/>](https://www.openmp.org/) 
-
-<br>
-<br>
-
-![](https://komarev.com/ghpvc/?username=cazzhd)
-
-
-
-
-
